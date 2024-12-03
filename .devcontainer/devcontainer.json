@@ -20,5 +20,5 @@
       }
   },
   // DF Added this in
-  "postCreateCommand": ["pwd"]
+  "postCreateCommand": "./.devcontainer/setup.sh"
 }
