@@ -18,5 +18,7 @@
               "codespace.md"
           ]
       }
-  }
+  },
+  // DF Added this in
+  "postCreateCommand": ["pwd"]
 }
